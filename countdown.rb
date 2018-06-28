@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown(x)
+def countdown(countdown_output)
   while x<7
   puts " #{x} SECOND(S)"
   x-=1
